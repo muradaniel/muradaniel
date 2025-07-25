@@ -79,5 +79,6 @@
 
 
 ###
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:489823,100:10002B" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:489823,100:1e4d15" />
+
 
