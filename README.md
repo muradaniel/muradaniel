@@ -79,4 +79,5 @@
 
 
 ###
-<img src="https://img.shields.io/static/v1?message=Contato&logo=whatsapp&label=&color=489823&logoColor=white&labelColor=&style=for-the-badge" height="40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:489823,100:10002B" />
+
