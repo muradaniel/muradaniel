@@ -77,4 +77,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muradaniel/muradaniel/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
