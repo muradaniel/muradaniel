@@ -64,13 +64,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muradaniel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=chartreuse-dark&hide_border=true&order=2" height="141" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muradaniel&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muradaniel/muradaniel/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muradaniel/muradaniel/output/pacman-contribution-graph.svg">
